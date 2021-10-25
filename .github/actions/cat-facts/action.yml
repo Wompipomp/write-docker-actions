@@ -1,0 +1,11 @@
+name: "my fat cat"
+
+description: "Get external data"
+
+outputs:
+  fact:
+    description: Resulting cat fart
+    
+runs:
+  using: "docker"
+  image: "Dockerfile"
