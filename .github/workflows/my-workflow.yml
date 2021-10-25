@@ -1,6 +1,6 @@
 name: Docker Actions
 
-on: 
+on:
   pull_request:
     types: [labeled]
     
